@@ -18,7 +18,7 @@ class Details extends Component {
         <p>{ `Genre: ${genre}` }</p>
         <p>{ `Rating: ${rating}` }</p>
         <nav className="details-buttons-container">
-          <Link to="/" className="details-button">Back</Link>
+          <Link to="/movie-list" className="details-button">Back</Link>
           <Link to={ `/movies/${id}/edit` } className="details-button"> Edit </Link>
           <Link to={ `/movies/${id}/delete` } className="details-button">Delete</Link>
         </nav>

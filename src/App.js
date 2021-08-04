@@ -14,7 +14,7 @@ function App() {
     <BrowserRouter>
       <Header />
       <Switch>
-        <Route exact path="/" component={ MovieList } />
+        <Route exact path="/movie-list" component={ MovieList } />
         <Route exact path="/movies/new" component={ NewMovie } />
         <Route
           exact

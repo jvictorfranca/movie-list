@@ -22,7 +22,7 @@ class DeleteMovie extends Component {
   render() {
     return (
       <Switch>
-        <Redirect to="/" />
+        <Redirect to="/movie-list" />
       </Switch>
     );
   }

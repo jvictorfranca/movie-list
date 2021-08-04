@@ -12,7 +12,7 @@ class NewMovie extends Component {
   handleSubmit(newMovie) {
     const putNewMovie = movieAPI.createMovie;
     const { history } = this.props;
-    putNewMovie(newMovie).then(history.push('/'));
+    putNewMovie(newMovie).then(history.push('/movie-list'));
   }
 
   render() {
