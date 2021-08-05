@@ -9,6 +9,7 @@ import NotFound from './pages/NotFound';
 import DeleteMovie from './pages/DeleteMovie';
 import Header from './components/Header';
 
+
 function App() {
   return (
     <BrowserRouter>
