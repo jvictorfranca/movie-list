@@ -1,20 +1,25 @@
 {
   "files": {
     "main.css": "/movie-list/static/css/main.eaf071b0.chunk.css",
-    "main.js": "/movie-list/static/js/main.8580f4c8.chunk.js",
-    "main.js.map": "/movie-list/static/js/main.8580f4c8.chunk.js.map",
+    "main.js": "/movie-list/static/js/main.da69ff4c.chunk.js",
+    "main.js.map": "/movie-list/static/js/main.da69ff4c.chunk.js.map",
     "runtime-main.js": "/movie-list/static/js/runtime-main.34775b1b.js",
     "runtime-main.js.map": "/movie-list/static/js/runtime-main.34775b1b.js.map",
     "static/js/2.a6f4a1c5.chunk.js": "/movie-list/static/js/2.a6f4a1c5.chunk.js",
     "static/js/2.a6f4a1c5.chunk.js.map": "/movie-list/static/js/2.a6f4a1c5.chunk.js.map",
     "index.html": "/movie-list/index.html",
     "static/css/main.eaf071b0.chunk.css.map": "/movie-list/static/css/main.eaf071b0.chunk.css.map",
-    "static/js/2.a6f4a1c5.chunk.js.LICENSE.txt": "/movie-list/static/js/2.a6f4a1c5.chunk.js.LICENSE.txt"
+    "static/js/2.a6f4a1c5.chunk.js.LICENSE.txt": "/movie-list/static/js/2.a6f4a1c5.chunk.js.LICENSE.txt",
+    "static/media/Appleseed_Alpha.30ae10ef.jpg": "/movie-list/static/media/Appleseed_Alpha.30ae10ef.jpg",
+    "static/media/Final_Fantasy_Spirits_Within.b8097429.jpg": "/movie-list/static/media/Final_Fantasy_Spirits_Within.b8097429.jpg",
+    "static/media/Ghost_In_The_Shell_2_0.2cabe5f9.jpg": "/movie-list/static/media/Ghost_In_The_Shell_2_0.2cabe5f9.jpg",
+    "static/media/Kingsglaive_Final_Fantasy_XV.ec78b774.jpg": "/movie-list/static/media/Kingsglaive_Final_Fantasy_XV.ec78b774.jpg",
+    "static/media/Resident_Evil_Vendetta.ffeb1d1b.jpg": "/movie-list/static/media/Resident_Evil_Vendetta.ffeb1d1b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.34775b1b.js",
     "static/js/2.a6f4a1c5.chunk.js",
     "static/css/main.eaf071b0.chunk.css",
-    "static/js/main.8580f4c8.chunk.js"
+    "static/js/main.da69ff4c.chunk.js"
   ]
 }
